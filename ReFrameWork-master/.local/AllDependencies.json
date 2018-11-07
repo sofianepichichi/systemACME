@@ -962,9 +962,9 @@
     "restore": {
       "projectUniqueName": "UiPath_REFrameWork",
       "projectName": "UiPath_REFrameWork",
-      "projectPath": "C:\\Users\\Fianso\\Documents\\UiPath\\ReFrameWork-master\\ReFrameWork-master\\.local",
+      "projectPath": "C:\\Users\\Fianso\\Documents\\UiPath\\SystemACME\\ReFrameWork-master\\.local",
       "packagesPath": "C:\\Users\\Fianso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fianso\\Documents\\UiPath\\ReFrameWork-master\\ReFrameWork-master\\.local"
+      "outputPath": "C:\\Users\\Fianso\\Documents\\UiPath\\SystemACME\\ReFrameWork-master\\.local"
     },
     "frameworks": {
       "net461": {
