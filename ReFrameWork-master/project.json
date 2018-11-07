@@ -1,0 +1,29 @@
+{
+  "name": "UiPath_REFrameWork",
+  "description": "UiPath_REFrameWork Template",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[18.3.6864.20561]",
+    "UiPath.UIAutomation.Activities": "[18.3.6864.20582]",
+    "CredentialManagement": "[1.0.2]",
+    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
+    "UiPath.Excel.Activities": "[2.3.6682.26635]",
+    "UiPath.PDF.Activities": "[1.1.6732.21973]",
+    "UiPath.Mail.Activities": "[1.1.6562.21018]"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "17.1",
+  "projectVersion": "1.0.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  }
+}
